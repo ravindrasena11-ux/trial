@@ -1,0 +1,8 @@
+{
+  "name": "warok",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
